@@ -1,0 +1,103 @@
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Bangoc - Copy\Pacman-master\PacmanGame\bin\Debug\PacmanGame.exe.config
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Bangoc - Copy\Pacman-master\PacmanGame\bin\Debug\PacmanGame.exe
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Bangoc - Copy\Pacman-master\PacmanGame\bin\Debug\PacmanGame.pdb
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Bangoc - Copy\Pacman-master\PacmanGame\obj\Debug\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Bangoc - Copy\Pacman-master\PacmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Bangoc - Copy\Pacman-master\PacmanGame\obj\Debug\PacmanGame.exe
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Bangoc - Copy\Pacman-master\PacmanGame\obj\Debug\PacmanGame.pdb
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Mecung\Pacman-master\PacmanGame\bin\Debug\PacmanGame.exe.config
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Mecung\Pacman-master\PacmanGame\bin\Debug\PacmanGame.exe
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Mecung\Pacman-master\PacmanGame\bin\Debug\PacmanGame.pdb
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Mecung\Pacman-master\PacmanGame\obj\Debug\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Mecung\Pacman-master\PacmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Mecung\Pacman-master\PacmanGame\obj\Debug\PacmanGame.exe
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Mecung\Pacman-master\PacmanGame\obj\Debug\PacmanGame.pdb
+C:\Users\user\Downloads\Mecung\Pacman-master\PacmanGame\bin\Debug\PacmanGame.exe.config
+C:\Users\user\Downloads\Mecung\Pacman-master\PacmanGame\bin\Debug\PacmanGame.exe
+C:\Users\user\Downloads\Mecung\Pacman-master\PacmanGame\bin\Debug\PacmanGame.pdb
+C:\Users\user\Downloads\Mecung\Pacman-master\PacmanGame\obj\Debug\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Mecung\Pacman-master\PacmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Mecung\Pacman-master\PacmanGame\obj\Debug\PacmanGame.exe
+C:\Users\user\Downloads\Mecung\Pacman-master\PacmanGame\obj\Debug\PacmanGame.pdb
+C:\Users\84828\Downloads\PAcmanGame (3)\PAcmanGame\bin\Debug\PacmanGame.exe.config
+C:\Users\84828\Downloads\PAcmanGame (3)\PAcmanGame\bin\Debug\PacmanGame.exe
+C:\Users\84828\Downloads\PAcmanGame (3)\PAcmanGame\bin\Debug\PacmanGame.pdb
+C:\Users\84828\Downloads\PAcmanGame (3)\PAcmanGame\obj\Debug\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\84828\Downloads\PAcmanGame (3)\PAcmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\84828\Downloads\PAcmanGame (3)\PAcmanGame\obj\Debug\PacmanGame.exe
+C:\Users\84828\Downloads\PAcmanGame (3)\PAcmanGame\obj\Debug\PacmanGame.pdb
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\MecungB1\PAcmanGame\bin\Debug\PacmanGame.exe.config
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\MecungB1\PAcmanGame\bin\Debug\PacmanGame.exe
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\MecungB1\PAcmanGame\bin\Debug\PacmanGame.pdb
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\MecungB1\PAcmanGame\obj\Debug\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\MecungB1\PAcmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\MecungB1\PAcmanGame\obj\Debug\PacmanGame.exe
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\MecungB1\PAcmanGame\obj\Debug\PacmanGame.pdb
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Maptonghop\PAcmanGame\obj\Debug\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Maptonghop\PAcmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Maptonghop\PAcmanGame\obj\Debug\PacmanGame.exe
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Maptonghop\PAcmanGame\obj\Debug\PacmanGame.pdb
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Maptonghop\PAcmanGame\bin\Debug\PacmanGame.exe.config
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Maptonghop\PAcmanGame\bin\Debug\PacmanGame.exe
+C:\Users\84828\Desktop\Phương\Khoa học dữ liệu\Cơ sở lập trình\Dự án\Maptonghop\PAcmanGame\bin\Debug\PacmanGame.pdb
+C:\Users\user\Downloads\Maptonghop\PAcmanGame\bin\Debug\PacmanGame.exe.config
+C:\Users\user\Downloads\Maptonghop\PAcmanGame\bin\Debug\PacmanGame.exe
+C:\Users\user\Downloads\Maptonghop\PAcmanGame\bin\Debug\PacmanGame.pdb
+C:\Users\user\Downloads\Maptonghop\PAcmanGame\obj\Debug\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Maptonghop\PAcmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Maptonghop\PAcmanGame\obj\Debug\PacmanGame.exe
+C:\Users\user\Downloads\Maptonghop\PAcmanGame\obj\Debug\PacmanGame.pdb
+C:\Users\user\Downloads\Nhom09\Nhom09\PAcmanGame\obj\Debug\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Nhom09\Nhom09\PAcmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Nhom09\Nhom09\PAcmanGame\obj\Debug\PacmanGame.exe
+C:\Users\user\Downloads\Nhom09\Nhom09\PAcmanGame\obj\Debug\PacmanGame.pdb
+C:\Users\user\Downloads\Nhom09\Nhom09\PAcmanGame\bin\Debug\PacmanGame.exe.config
+C:\Users\user\Downloads\Nhom09\Nhom09\PAcmanGame\bin\Debug\PacmanGame.exe
+C:\Users\user\Downloads\Nhom09\Nhom09\PAcmanGame\bin\Debug\PacmanGame.pdb
+C:\Users\user\Downloads\Nhom09\Nhom09\PAcmanGame\obj\Debug\PacmanGame.Properties.Resources.resources
+C:\Users\user\Downloads\Nhom09\Nhom09\PAcmanGame\obj\Debug\PacmanGame.csproj.GenerateResource.cache
+C:\Users\84828\Downloads\Nhom09 ban 1\Nhom09\PAcmanGame\bin\Debug\PacmanGame.exe.config
+C:\Users\84828\Downloads\Nhom09 ban 1\Nhom09\PAcmanGame\bin\Debug\PacmanGame.exe
+C:\Users\84828\Downloads\Nhom09 ban 1\Nhom09\PAcmanGame\bin\Debug\PacmanGame.pdb
+C:\Users\84828\Downloads\Nhom09 ban 1\Nhom09\PAcmanGame\obj\Debug\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\84828\Downloads\Nhom09 ban 1\Nhom09\PAcmanGame\obj\Debug\PacmanGame.Properties.Resources.resources
+C:\Users\84828\Downloads\Nhom09 ban 1\Nhom09\PAcmanGame\obj\Debug\PacmanGame.csproj.GenerateResource.cache
+C:\Users\84828\Downloads\Nhom09 ban 1\Nhom09\PAcmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\84828\Downloads\Nhom09 ban 1\Nhom09\PAcmanGame\obj\Debug\PacmanGame.exe
+C:\Users\84828\Downloads\Nhom09 ban 1\Nhom09\PAcmanGame\obj\Debug\PacmanGame.pdb
+C:\Users\84828\Downloads\Nhom09 sua\Nhom09\PAcmanGame\bin\Debug\PacmanGame.exe.config
+C:\Users\84828\Downloads\Nhom09 sua\Nhom09\PAcmanGame\bin\Debug\PacmanGame.exe
+C:\Users\84828\Downloads\Nhom09 sua\Nhom09\PAcmanGame\bin\Debug\PacmanGame.pdb
+C:\Users\84828\Downloads\Nhom09 sua\Nhom09\PAcmanGame\obj\Debug\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\84828\Downloads\Nhom09 sua\Nhom09\PAcmanGame\obj\Debug\PacmanGame.Properties.Resources.resources
+C:\Users\84828\Downloads\Nhom09 sua\Nhom09\PAcmanGame\obj\Debug\PacmanGame.csproj.GenerateResource.cache
+C:\Users\84828\Downloads\Nhom09 sua\Nhom09\PAcmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\84828\Downloads\Nhom09 sua\Nhom09\PAcmanGame\obj\Debug\PacmanGame.exe
+C:\Users\84828\Downloads\Nhom09 sua\Nhom09\PAcmanGame\obj\Debug\PacmanGame.pdb
+C:\Users\user\Downloads\Nhom09 sua1\Nhom09\PAcmanGame\bin\Debug\PacmanGame.exe.config
+C:\Users\user\Downloads\Nhom09 sua1\Nhom09\PAcmanGame\bin\Debug\PacmanGame.exe
+C:\Users\user\Downloads\Nhom09 sua1\Nhom09\PAcmanGame\bin\Debug\PacmanGame.pdb
+C:\Users\user\Downloads\Nhom09 sua1\Nhom09\PAcmanGame\obj\Debug\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Nhom09 sua1\Nhom09\PAcmanGame\obj\Debug\PacmanGame.Properties.Resources.resources
+C:\Users\user\Downloads\Nhom09 sua1\Nhom09\PAcmanGame\obj\Debug\PacmanGame.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Nhom09 sua1\Nhom09\PAcmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Nhom09 sua1\Nhom09\PAcmanGame\obj\Debug\PacmanGame.exe
+C:\Users\user\Downloads\Nhom09 sua1\Nhom09\PAcmanGame\obj\Debug\PacmanGame.pdb
+C:\Users\84828\Downloads\Nhom09 1246\Nhom09\PAcmanGame\bin\Debug\PacmanGame.exe.config
+C:\Users\84828\Downloads\Nhom09 1246\Nhom09\PAcmanGame\bin\Debug\PacmanGame.exe
+C:\Users\84828\Downloads\Nhom09 1246\Nhom09\PAcmanGame\bin\Debug\PacmanGame.pdb
+C:\Users\84828\Downloads\Nhom09 1246\Nhom09\PAcmanGame\obj\Debug\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\84828\Downloads\Nhom09 1246\Nhom09\PAcmanGame\obj\Debug\PacmanGame.Properties.Resources.resources
+C:\Users\84828\Downloads\Nhom09 1246\Nhom09\PAcmanGame\obj\Debug\PacmanGame.csproj.GenerateResource.cache
+C:\Users\84828\Downloads\Nhom09 1246\Nhom09\PAcmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\84828\Downloads\Nhom09 1246\Nhom09\PAcmanGame\obj\Debug\PacmanGame.exe
+C:\Users\84828\Downloads\Nhom09 1246\Nhom09\PAcmanGame\obj\Debug\PacmanGame.pdb
+C:\Users\user\Downloads\Nhom09 1246\Nhom09\PAcmanGame\bin\Debug\PacmanGame.exe.config
+C:\Users\user\Downloads\Nhom09 1246\Nhom09\PAcmanGame\bin\Debug\PacmanGame.exe
+C:\Users\user\Downloads\Nhom09 1246\Nhom09\PAcmanGame\bin\Debug\PacmanGame.pdb
+C:\Users\user\Downloads\Nhom09 1246\Nhom09\PAcmanGame\obj\Debug\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Nhom09 1246\Nhom09\PAcmanGame\obj\Debug\PacmanGame.Properties.Resources.resources
+C:\Users\user\Downloads\Nhom09 1246\Nhom09\PAcmanGame\obj\Debug\PacmanGame.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Nhom09 1246\Nhom09\PAcmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Nhom09 1246\Nhom09\PAcmanGame\obj\Debug\PacmanGame.exe
+C:\Users\user\Downloads\Nhom09 1246\Nhom09\PAcmanGame\obj\Debug\PacmanGame.pdb
